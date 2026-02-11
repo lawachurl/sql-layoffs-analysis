@@ -19,11 +19,11 @@ sql-layoffs-analysis/
 ├── .gitignore
 │
 ├── sql/
-│ ├── 01_data_cleaning.sql # очистка и подготовка данных
-│ └── 02_exploratory_analysis.sql # разведочный анализ
+│ ├── 01_data_cleaning.sql – очистка и подготовка данных
+│ └── 02_exploratory_analysis.sql – разведочный анализ
 │
 └── data/
-└── layoffs_raw_sample.csv # пример исходных данных (20 строк)
+└── layoffs_raw_sample.csv – пример исходных данных (20 строк)
 ```
 
 ## 🔧 Описание скриптов
